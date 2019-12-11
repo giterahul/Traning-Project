@@ -1,0 +1,67 @@
+
+Nov 21, 2019 14:43:02.53 NEW SESSION
+Nov 21, 2019 14:43:02.53 [10224:13460:1121/144302.515:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+Nov 22, 2019 14:43:45.72 NEW SESSION
+Nov 22, 2019 14:43:45.72 [11464:4612:1122/144345.712:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-62BI1h5Lu39149gGKEGjqxgsHZu2JNRhl4obe1llONU=' 'sha256-Z6p8aa0mRhjni9HuJLpgrSJ+4K1/tMbM/hCQXzlpWSY=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-GEL/rycFUuiiO2Y/pre5lEB9U+VLGfvptJK/4+clEyw=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-D9xTUJA6yEmGcKcarZ1P/OU2BW9cdtHJMyuZSroFBD0='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Nov 22, 2019 14:43:45.72 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Nov 22, 2019 14:47:28.85 [11464:4612:1122/144728.853:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-62BI1h5Lu39149gGKEGjqxgsHZu2JNRhl4obe1llONU=' 'sha256-Z6p8aa0mRhjni9HuJLpgrSJ+4K1/tMbM/hCQXzlpWSY=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-GEL/rycFUuiiO2Y/pre5lEB9U+VLGfvptJK/4+clEyw=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-D9xTUJA6yEmGcKcarZ1P/OU2BW9cdtHJMyuZSroFBD0='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Nov 22, 2019 14:47:28.86 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Nov 22, 2019 14:48:53.83 [11464:4612:1122/144853.834:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-62BI1h5Lu39149gGKEGjqxgsHZu2JNRhl4obe1llONU=' 'sha256-Z6p8aa0mRhjni9HuJLpgrSJ+4K1/tMbM/hCQXzlpWSY=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-GEL/rycFUuiiO2Y/pre5lEB9U+VLGfvptJK/4+clEyw=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-D9xTUJA6yEmGcKcarZ1P/OU2BW9cdtHJMyuZSroFBD0='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Nov 22, 2019 14:48:53.84 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Nov 22, 2019 14:50:54.53 [11464:4612:1122/145054.534:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-62BI1h5Lu39149gGKEGjqxgsHZu2JNRhl4obe1llONU=' 'sha256-Z6p8aa0mRhjni9HuJLpgrSJ+4K1/tMbM/hCQXzlpWSY=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-GEL/rycFUuiiO2Y/pre5lEB9U+VLGfvptJK/4+clEyw=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-D9xTUJA6yEmGcKcarZ1P/OU2BW9cdtHJMyuZSroFBD0='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Nov 22, 2019 14:50:54.54 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Nov 22, 2019 16:04:23.56 [11464:4612:1122/160423.562:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+
+Dec 06, 2019 12:39:27.81 NEW SESSION
+Dec 06, 2019 12:39:27.81 [19876:17996:1206/123927.814:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 12:47:41.38 [19876:17996:1206/124741.388:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2019 13:05:20.14 [19876:17996:1206/130520.140:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 14:03:12.40 [19876:7232:1206/140311.643:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 06, 2019 14:03:12.44 [19876:17996:1206/140312.028:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 14:03:12.47 [19876:17996:1206/140312.040:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -21
+Dec 06, 2019 14:03:14.46 [19876:17996:1206/140314.468:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2019 14:45:56.12 [19876:17996:1206/144556.128:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 15:30:27.60 [19876:17996:1206/153027.602:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 15:32:35.44 [19876:17996:1206/153235.441:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2019 15:33:07.18 [19876:17996:1206/153307.185:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 15:37:42.43 [19876:17996:1206/153742.431:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2019 15:38:32.82 [19876:17996:1206/153832.828:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2019 15:39:05.80 [19876:17996:1206/153905.807:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 16:01:04.46 [19876:17996:1206/160104.466:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2019 16:26:05.33 [19876:17996:1206/162605.331:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 16:29:22.78 [19876:17996:1206/162922.786:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 18:10:10.52 [19876:17996:1206/181010.523:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 18:10:10.53 [19876:17996:1206/181010.539:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 06, 2019 18:10:10.55 [19876:7232:1206/181010.547:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 06, 2019 18:10:13.47 [19876:17996:1206/181013.472:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 06, 2019 18:13:35.51 [19876:17996:1206/181335.512:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 21:13:40.51 [19876:7232:1206/211340.515:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 06, 2019 21:13:41.42 [19876:17996:1206/211341.420:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Dec 06, 2019 21:13:41.99 [19876:14496:1206/211341.995:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 06, 2019 21:13:43.50 [19876:17996:1206/211343.502:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 07, 2019 11:27:53.42 [19876:7232:1207/112753.423:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 07, 2019 11:27:53.44 [19876:17996:1207/112753.423:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 07, 2019 11:28:00.29 [19876:14496:1207/112800.295:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 07, 2019 11:28:26.66 [19876:7232:1207/112826.665:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Dec 07, 2019 11:28:41.87 [19876:17996:1207/112841.873:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 07, 2019 11:28:44.90 [19876:7232:1207/112844.900:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 07, 2019 11:32:45.53 [19876:7232:1207/113245.531:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 07, 2019 11:32:45.53 [19876:17996:1207/113245.535:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 07, 2019 11:32:50.77 [19876:14496:1207/113250.777:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 07, 2019 11:54:22.59 [19876:7232:1207/115422.599:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 07, 2019 11:54:22.61 [19876:17996:1207/115422.607:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 07, 2019 11:54:27.66 [19876:14496:1207/115427.660:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 07, 2019 11:54:54.56 [19876:17996:1207/115454.561:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 11:54:54.57 [19876:14496:1207/115454.565:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 07, 2019 11:55:01.04 [19876:17996:1207/115501.048:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 11:55:01.05 [19876:14496:1207/115501.048:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 07, 2019 11:57:30.24 [19876:17996:1207/115730.249:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 07, 2019 11:57:42.07 [19876:17996:1207/115742.075:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 11:57:42.10 [19876:14496:1207/115742.091:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 07, 2019 11:57:47.11 [19876:17996:1207/115747.111:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 07, 2019 11:57:47.13 [19876:14496:1207/115747.115:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Dec 07, 2019 11:58:10.93 [19876:17996:1207/115810.933:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 07, 2019 12:57:13.42 [19876:7232:1207/125713.168:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 07, 2019 12:57:13.45 [19876:17996:1207/125713.168:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 07, 2019 12:57:19.84 [19876:14496:1207/125719.845:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates

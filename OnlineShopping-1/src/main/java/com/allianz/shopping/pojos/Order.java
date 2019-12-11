@@ -1,0 +1,96 @@
+package com.allianz.shopping.pojos;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+import javax.persistence.Entity;
+
+
+
+public class Order
+{
+	private int order_id;
+	private  Date date;
+	private String order_status;
+	private String UserName;
+	private float price;
+	private List<Order>listOrder;
+	private List<AddToCart> addToCartList=new ArrayList<AddToCart>();
+	
+	public Order()
+	{
+		this.order_id = 0;
+		this.date = null;
+		this.order_status = null;
+		UserName =  null;
+		this.price = 0.0f;
+	}
+	public Order(int order_id, Date date, String order_status, String userName, float price) {
+		super();
+		this.order_id = order_id;
+		this.date = date;
+		this.order_status = order_status;
+		UserName = userName;
+		this.price = price;
+	}
+	public int getOrder_id() {
+		return order_id;
+	}
+	public void setOrder_id(int order_id) {
+		this.order_id = order_id;
+	}
+	public Date getDate() {
+		return date;
+	}
+	public void setDate(Date date) {
+		this.date = date;
+	}
+	public String getOreder_status() {
+		return order_status;
+	}
+	public void setOredr_status(String oredr_status) {
+		this.order_status = oredr_status;
+	}
+	public String getUserName() {
+		return UserName;
+	}
+	public String getOrder_status() {
+		return order_status;
+	}
+	public void setOrder_status(String order_status) {
+		this.order_status = order_status;
+	}
+	public List<Order> getListOrder() {
+		return listOrder;
+	}
+	public void setListOrder(List<Order> listOrder) {
+		this.listOrder = listOrder;
+	}
+	public void setUserName(String userName) {
+		UserName = userName;
+	}
+	public float getPrice() {
+		return price;
+	}
+	public void setPrice(float price) {
+		this.price = price;
+	}
+	
+	public List<AddToCart> getAddToCartList() {
+		return addToCartList;
+	}
+	public void setAddToCartList( List<AddToCart> getAddToCartList) {
+		this.addToCartList = getAddToCartList;
+	}
+	@Override
+	public String toString() {
+		return "Order [order_id=" + order_id + ", date=" + date + ", order_status=" + order_status + ", UserName="
+				+ UserName + ", price=" + price + ", listOrder=" + listOrder + ", addToCartList=" + addToCartList + "]";
+	}
+	
+	
+	
+	
+	
+}

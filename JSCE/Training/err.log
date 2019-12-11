@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.Exception: can not divide by zero
+	at com.Exception.Text_Exception.divide(Text_Exception.java:12)
+	at com.Exception.Text_Exception.main(Text_Exception.java:46)

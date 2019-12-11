@@ -1,0 +1,26 @@
+package com.apachecamel.example;
+
+import org.apache.camel.CamelContext;
+import org.apache.camel.impl.DefaultCamelContext;
+
+public class HelloWorldCamel {
+	public static void main(String[] args) {
+		
+		CamelContext context=new DefaultCamelContext();
+		
+		HelloWorldRouter router=new HelloWorldRouter();
+		
+		try
+		{
+			context.addRoutes(router);
+			
+			context.start();
+			
+			context.stop();
+			
+		}catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

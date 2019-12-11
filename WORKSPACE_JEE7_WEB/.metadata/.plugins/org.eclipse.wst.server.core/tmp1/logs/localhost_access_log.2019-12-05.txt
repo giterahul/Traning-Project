@@ -1,0 +1,16 @@
+127.0.0.1 - - [05/Dec/2019:23:12:05 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:12:07 +0530] "GET /MotorInsurance/Home.jsp HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:12:07 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:12:22 +0530] "POST /MotorInsurance/VehicleController HTTP/1.1" 500 1536
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:14:33 +0530] "GET /MotorInsurance/Home.jsp HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:14:35 +0530] "GET /MotorInsurance/next.jsp HTTP/1.1" 200 1437
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:14:43 +0530] "GET /MotorInsurance/Home.jsp HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:14:59 +0530] "POST /MotorInsurance/VehicleController HTTP/1.1" 500 1536
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:16:38 +0530] "GET /MotorInsurance/Home.jsp HTTP/1.1" 200 405
+127.0.0.1 - - [05/Dec/2019:23:22:16 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:22:17 +0530] "GET /MotorInsurance/Home.jsp HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:22:22 +0530] "POST /MotorInsurance/VehicleController HTTP/1.1" 500 1536
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:22:31 +0530] "GET /MotorInsurance/Home.jsp HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:22:32 +0530] "GET /MotorInsurance/next.jsp HTTP/1.1" 200 1437
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:24:22 +0530] "POST /MotorInsurance/PremiumCalculator HTTP/1.1" 200 49
+0:0:0:0:0:0:0:1 - - [05/Dec/2019:23:25:37 +0530] "POST /MotorInsurance/PremiumCalculator HTTP/1.1" 200 48

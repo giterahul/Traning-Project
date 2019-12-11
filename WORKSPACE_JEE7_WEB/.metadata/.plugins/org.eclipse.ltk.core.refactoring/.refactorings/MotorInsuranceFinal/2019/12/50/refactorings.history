@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DBUtility.java&apos; to &apos;MotorANDBikeInsuranceCal/src/com.utility&apos;&#x0D;&#x0A;- Original project: &apos;MotorInsuranceFinal&apos;&#x0D;&#x0A;- Destination element: &apos;MotorANDBikeInsuranceCal/src/com.utility&apos;&#x0D;&#x0A;- Original element: &apos;com.utility.DBUtility.java&apos;" description="Copy compilation unit" destination="=MotorANDBikeInsuranceCal/src&lt;com.utility" element1="/src&lt;com.utility{DBUtility.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1575792364812" units="1" version="1.0"/>
+</session>

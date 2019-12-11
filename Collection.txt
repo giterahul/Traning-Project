@@ -1,0 +1,95 @@
+1. Which of these packages contain all the collection classes?
+a) java.lang
+b) java.util
+c) java.net
+d) java.awt
+
+2. Which of these methods deletes all the elements from invoking collection?
+a) clear()
+b) reset()
+c) delete()
+d) refresh()
+
+3. What is Collection in Java?
+a) A group of objects
+b) A group of classes
+c) A group of interfaces
+d) None of the mentioned
+
+4. Which of these return type of hasNext() method of an iterator?
+a) Integer
+b) Double
+c) Boolean
+d) Collections Object
+
+5. Which of these iterators can be used only with List?
+a) Setiterator
+b) ListIterator
+c) Literator
+d) None of the mentioned
+
+6. Which of these collection class has the ability to grow dynamically?
+a) Array
+b) Arrays
+c) ArrayList
+d) None of these
+
+7. The default capacity of a Vector is:
+a) 10
+b) 12
+c) 8
+d) 16
+
+8. Which provides better performance for the insertion and removal from the middle of the list?
+a) Vector
+b) ArrayList
+c) LinkedList
+d) All of these
+
+9. Which of these is synchronized?
+a) ArrayList
+b) LinkedList
+c) Vector
+d) None of these
+
+10. TreeMap implements?
+a) Dictionary
+b) HashMap
+c) AbstractMap
+d) NavigableMap
+
+11. Which is more offers best performance?
+a) TreeMap
+b) HashMap
+c) LinkedHashMap
+d) All are equal
+
+12. LinkedHashMap allows
+a) one null key
+b) many null values
+c) none
+d) all
+
+13. What does Collections.sort internally uses when number of elements are less than 7?
+a) Insertion sort
+b) Merge sort
+c) Quick sort
+d) None
+
+14. An attempt to add null key to a TreeMap will result in:
+a) Compile time Exception
+b) Error
+c) Runtime - NullPointerException
+d) None
+
+15. Which interface must be implemented for sorting on basis many criterias
+a) Comparator
+b) Comparable
+c) Serializable
+d) None
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.iamvickyav.springbootmvcjsp&apos; to &apos;com.allianz&apos;&#x0D;&#x0A;- Original project: &apos;spring-boot-mvc-jsp&apos;&#x0D;&#x0A;- Original element: &apos;spring-boot-mvc-jsp/src/main/java/com.iamvickyav.springbootmvcjsp&apos;&#x0D;&#x0A;- Renamed element: &apos;spring-boot-mvc-jsp/src/main/java/com.allianz&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.iamvickyav.springbootmvcjsp&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.iamvickyav.springbootmvcjsp" name="com.allianz" qualified="false" references="true" stamp="1574851354816" textual="false" version="1.0"/>
+</session>

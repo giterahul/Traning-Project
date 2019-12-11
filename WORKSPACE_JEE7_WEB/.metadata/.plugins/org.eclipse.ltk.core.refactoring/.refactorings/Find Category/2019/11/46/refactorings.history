@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.javapapers.jee.AnimalType&apos; to &apos;AnimalTypeService&apos;&#x0D;&#x0A;- Original project: &apos;Find Category&apos;&#x0D;&#x0A;- Original element: &apos;com.javapapers.jee.AnimalType&apos;&#x0D;&#x0A;- Renamed element: &apos;com.javapapers.jee.AnimalTypeService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AnimalType&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.javapapers.jee{AnimalType.java[AnimalType" matchStrategy="1" name="AnimalTypeService" qualified="false" references="true" similarDeclarations="false" stamp="1573455539265" textual="false" version="1.0"/>
+</session>
